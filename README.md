@@ -15,8 +15,12 @@
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/BOOTSTARP-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 </div>
-
-
+<br/>
+<br/>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=qhqo0403&count_private=true&theme=gotham" width="38%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhqo0403&layout=compact&theme=gotham" width="35%">
+</div>
 
 
 <!--
