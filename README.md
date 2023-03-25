@@ -19,7 +19,7 @@
 <br/>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=qhqo0403&count_private=true&theme=gotham&show_icons=true&bg_color=000000&hide_border=true&text_bold=false&text_color=ffffff">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhqo0403&layout=compact&theme=gotham&bg_color=000000&hide_border=true&text_color=ffffff" width="41%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhqo0403&layout=compact&theme=gotham&bg_color=000000&hide_border=true&text_color=ffffff">
 </div>
 
 
