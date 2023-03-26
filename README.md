@@ -17,8 +17,8 @@
 </div>
 <br/>
 <br/>
-<div>
-  <h3 align=center>🌟Github State & Most Used Languages🌟</h3>
+<div align=center>
+  <h3>🌟Github State & Most Used Languages🌟</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=qhqo0403&count_private=true&theme=gotham&show_icons=true&bg_color=000000&hide_border=true&text_bold=false&text_color=ffffff" width="42%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhqo0403&layout=compact&theme=gotham&bg_color=000000&hide_border=true&text_color=ffffff" width="38%">
 </div>
