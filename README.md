@@ -18,11 +18,19 @@
 <br/>
 <br/>
 <div align=center>
-  <h3>🌟Github State & Most Used Languages🌟</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=qhqo0403&count_private=true&theme=gotham&show_icons=true&bg_color=000000&hide_border=true&text_bold=false&text_color=ffffff" width="42%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhqo0403&layout=compact&theme=gotham&bg_color=000000&hide_border=true&text_color=ffffff" width="38%">
+  
 </div>
 
+<a href="https://github.com/qhqo0403/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=qhqo0403&count_private=true&theme=gotham&show_icons=true&bg_color=000000&hide_border=true&text_bold=false&text_color=ffffff" />
+</a>
+<a href="https://github.com/qhqo0403/top-langs">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhqo0403&layout=compact&theme=gotham&bg_color=000000&hide_border=true&text_color=ffffff" />
+</a>
+
+<!-- <h3>🌟Github State & Most Used Languages🌟</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=qhqo0403&count_private=true&theme=gotham&show_icons=true&bg_color=000000&hide_border=true&text_bold=false&text_color=ffffff" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhqo0403&layout=compact&theme=gotham&bg_color=000000&hide_border=true&text_color=ffffff" width="38%"> -->
 
 <!--
 **qhqo0403/qhqo0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
