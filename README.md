@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=Oracle&logoColor=white">
